@@ -1,0 +1,51 @@
+.h1{
+    text-align: center;
+}
+.p{
+    text-align: justify;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    font-size: 1.3rem;  
+}
+
+.test{
+    width: 80%;
+    margin: auto;
+    padding: top 100px; 
+    text-align: center;
+}
+
+.test-col{
+    flex-basis: 44%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+    background: #f7e9f1;
+    padding: 17px;
+    cursor: pointer;
+    display: flex;
+}
+
+.p2{
+    font-size: 1.3rem;
+}
+.course{
+    margin: auto;
+    width:80%;
+    padding-top: 100px;
+    text-align: center;
+}
+.row{
+    margin-top:5% ;
+    display: flex;
+    justify-content: space-between;
+}
+.column{
+    flex-basis: 31%;
+    background: #f5ecec;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+transition: 0.5s;
+}
